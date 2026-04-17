@@ -9,9 +9,9 @@
         "es": "10 ejercicios de flujo basados en Mermaid para practicar la logica esencial de programacion con autoevaluacion aislada y dificultad progresiva."
     },
     "preview": "",
-    "difficulty": "EASY",
+    "difficulty": "BEGINNER",
     "duration": 4,
-    "template_url": "self",
+    "template_url": null,
     "gitpod": true,
     "technologies": [
         "programming-logic",
